@@ -1,5 +1,5 @@
 # wagtail-tutorial
-Wagtail project tutorial from their docs
+Wagtail project tutorial from their [docs](http://docs.wagtail.io/en/v1.13.1/getting_started/tutorial.html)
 
 
 ## Prerequisites
